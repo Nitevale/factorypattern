@@ -1,7 +1,6 @@
-// Main.java
+//
 public class Main {
     public static void main(String[] args) {
-        // Using the factory to create instances
         ElectronicDeviceFactory deviceFactory = new ElectronicDeviceFactory();
 
         ElectronicDevice laptop = deviceFactory.createDevice("Laptop");
