@@ -1,4 +1,4 @@
-// ElectronicDevice.java
+//
 interface ElectronicDevice {
     void turnOn();
     void turnOff();
