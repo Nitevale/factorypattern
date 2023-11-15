@@ -1,4 +1,4 @@
-// ElectronicDeviceFactory.java
+//
 class ElectronicDeviceFactory {
     ElectronicDevice createDevice(String deviceType) {
         switch (deviceType) {
